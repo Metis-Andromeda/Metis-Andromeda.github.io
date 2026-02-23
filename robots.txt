@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /sushiswap/
+Sitemap: https://metis-andromeda.github.io/sitemap.xml
